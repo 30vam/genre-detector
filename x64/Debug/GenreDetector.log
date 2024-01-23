@@ -1,0 +1,4 @@
+﻿  GenreDetector.cpp
+D:\Projects\Programming\C++\GenreDetector\GenreDetector.cpp(76,33): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+D:\Projects\Programming\C++\GenreDetector\GenreDetector.cpp(312,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  GenreDetector.vcxproj -> D:\Projects\Programming\C++\GenreDetector\x64\Debug\GenreDetector.exe
